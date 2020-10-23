@@ -1,0 +1,30 @@
+.menu{
+    width: 5.5vw;
+    height: 100vh;
+}
+.menu-links ul{
+    margin-top: -10px;
+    padding: 0;
+    display: flex;
+    flex-flow: column;
+    
+    align-items: center;
+}
+.menu-links ul li{
+    padding:20px;
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+    cursor:pointer;
+}
+.menu-links ul li svg{
+    width: 25px;
+    height:25px;
+    fill:#606060;
+}
+.menu-links ul li span{
+    font-size: 9px;
+    color:#606060;
+    font-family: 'Roboto',sans-serif;
+}
