@@ -6,6 +6,9 @@ Porquê não clonar a interface da aplicação web/mobile mais utilizada no mund
 realizei o clone da interface do youtube é um projeto que irei fazer melhorias e adicionar mais
 features para ter uma rotina parecida com a da plataforma.
 
+<img src="snapshots/Print.png">
+
+
 ## :rocket: Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
